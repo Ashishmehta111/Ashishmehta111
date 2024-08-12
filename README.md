@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ashish Mehta</h1>
 <h3 align="center">Driven individual with a deep understanding of programming and a love for technology desires internship or entry-level software development position to apply knowledge and enhance capabilities. Proficient in C++.</h3>
-<img align="right" alt="coding" width="400" src="[https://www.behance.net/gallery/161921919/Portrait-animated-gif](https://www.behance.net/gallery/161921919/Portrait-animated-gif/modules/913447149)">
+
+<img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishmehta111&label=Profile%20views&color=0e75b6&style=flat" alt="ashishmehta111" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ashishmehta111](https://github.com/Ashishmehta111)
