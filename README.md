@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/ashishmehta10/**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1uZSGLyuDYg_cXptJvpYAoWKztfk4PGYX/view?usp=sharing](https://drive.google.com/file/d/1uZSGLyuDYg_cXptJvpYAoWKztfk4PGYX/view?usp=sharing)
+- 📄 CV LINK [https://drive.google.com/file/d/1uZSGLyuDYg_cXptJvpYAoWKztfk4PGYX/view?usp=sharing](https://drive.google.com/file/d/1uZSGLyuDYg_cXptJvpYAoWKztfk4PGYX/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
